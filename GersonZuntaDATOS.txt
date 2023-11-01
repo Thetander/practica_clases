@@ -1,0 +1,4 @@
+Nombre: Gerson Zunta
+Semestre: 4to
+Edad:24
+
